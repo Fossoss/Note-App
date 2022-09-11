@@ -1,0 +1,13 @@
+C:\Users\fosso\source\repos\NoteApp\NoteApp\bin\Debug\NoteApp.exe.config
+C:\Users\fosso\source\repos\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+C:\Users\fosso\source\repos\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.AssemblyReference.cache
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.Properties.Resources.resources
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.GenerateResource.cache
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.Form1.resources
+C:\Users\fosso\source\repos\NoteApp\NoteApp\bin\Debug\SipaaFramework.dll
+C:\Users\fosso\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CopyComplete
